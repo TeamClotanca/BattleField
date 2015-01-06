@@ -1,2 +1,3 @@
 BattleField
 ===========
+The code is beautiful the way it is. Let us not change it, just as how one shouldn't change a person's personality if he doesn't like him! We are fighting for code equality! Real programmers don't judge their code by its quality. Real programmers love a good old working code and this motherfucker is working like an old rifle! Plus we all have Angular projects to do so no time for minichki..
